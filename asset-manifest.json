@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/shopping/static/js/main.b87a9886.chunk.js",
+    "main.js": "/shopping/static/js/main.00aea119.chunk.js",
     "runtime-main.js": "/shopping/static/js/runtime-main.b6ee471e.js",
-    "static/js/2.885d86e0.chunk.js": "/shopping/static/js/2.885d86e0.chunk.js",
+    "static/js/2.069edaee.chunk.js": "/shopping/static/js/2.069edaee.chunk.js",
     "index.html": "/shopping/index.html",
-    "precache-manifest.f2256542cce237496e9f8303c54df5f5.js": "/shopping/precache-manifest.f2256542cce237496e9f8303c54df5f5.js",
+    "precache-manifest.08d25ba55ce81927954ce098a8a4c4f4.js": "/shopping/precache-manifest.08d25ba55ce81927954ce098a8a4c4f4.js",
     "service-worker.js": "/shopping/service-worker.js",
-    "static/js/2.885d86e0.chunk.js.LICENSE.txt": "/shopping/static/js/2.885d86e0.chunk.js.LICENSE.txt"
+    "static/js/2.069edaee.chunk.js.LICENSE.txt": "/shopping/static/js/2.069edaee.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6ee471e.js",
-    "static/js/2.885d86e0.chunk.js",
-    "static/js/main.b87a9886.chunk.js"
+    "static/js/2.069edaee.chunk.js",
+    "static/js/main.00aea119.chunk.js"
   ]
 }
