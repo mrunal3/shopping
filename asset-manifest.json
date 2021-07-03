@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "/shopping/static/js/main.bc1d10d5.chunk.js",
+    "runtime-main.js": "/shopping/static/js/runtime-main.b6ee471e.js",
+    "static/js/2.885d86e0.chunk.js": "/shopping/static/js/2.885d86e0.chunk.js",
+    "index.html": "/shopping/index.html",
+    "precache-manifest.8edfbb42c4b4f8ea0a362b125dd53890.js": "/shopping/precache-manifest.8edfbb42c4b4f8ea0a362b125dd53890.js",
+    "service-worker.js": "/shopping/service-worker.js",
+    "static/js/2.885d86e0.chunk.js.LICENSE.txt": "/shopping/static/js/2.885d86e0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6ee471e.js",
+    "static/js/2.885d86e0.chunk.js",
+    "static/js/main.bc1d10d5.chunk.js"
+  ]
+}
